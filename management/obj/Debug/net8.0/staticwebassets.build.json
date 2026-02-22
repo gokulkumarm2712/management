@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9e4/66U3bW4jaD9Y73vfmk05pvy5gfHgaWtMHTDpaWU=",
+  "Source": "management",
+  "BasePath": "_content/management",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
