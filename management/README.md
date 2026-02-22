@@ -1,7 +1,7 @@
 ﻿Task Management API
 Time Spent
 
-Approximate time spent: 6 hours
+Approximate time spent: 3 hours
 
 Approach
 
